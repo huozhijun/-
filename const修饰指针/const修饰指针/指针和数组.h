@@ -1,0 +1,2 @@
+
+int zhizhenshuzu(int a);
